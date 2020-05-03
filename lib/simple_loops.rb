@@ -28,5 +28,7 @@ end
 def return_string_array(array)
   counter = 0
   
-  while 
+  while array[counter] do
+    element_as_string = array
+  end
 end
